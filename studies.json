@@ -1,3 +1,22 @@
 [
-	{"abbreviation": "TCS", "name": "Technical Computer Science", "type": "Bachelor"}
+	{"abbreviation": "ATLAS", "name": "University College Twente", "type": "Bachelor"},
+	{"abbreviation": "AT", "name": "Advanced Technology", "type": "Bachelor"},
+	{"abbreviation": "AM", "name": "Applied Mathematics", "type": "Bachelor"},
+	{"abbreviation": "BMT", "name": "Biomedische Technologie", "type": "Bachelor"},
+	{"abbreviation": "BIT", "name": "Business Information Technology", "type": "Bachelor"},
+	{"abbreviation": "CSE", "name": "Chemical Science & Engineering", "type": "Bachelor"},
+	{"abbreviation": "UNKNOWN", "name": "Civil Engineering", "type": "Bachelor"},
+	{"abbreviation": "UNKNOWN", "name": "Communication Science", "type": "Bachelor"},
+	{"abbreviation": "CreaTe", "name": "Creative Technology", "type": "Bachelor"},
+	{"abbreviation": "EE", "name": "Electrical Engineering", "type": "Bachelor"},
+	{"abbreviation": "UNKNOWN", "name": "Gezondheidswetenschappen", "type": "Bachelor"},
+	{"abbreviation": "IDE", "name": "Industrial Design Engineering", "type": "Bachelor"},
+	{"abbreviation": "IEM", "name": "Industrial Engineering & Management", "type": "Bachelor"},
+	{"abbreviation": "IBA", "name": "International Business Administration", "type": "Bachelor"},
+	{"abbreviation": "MST", "name": "Management, Society & Technology", "type": "Bachelor"},
+	{"abbreviation": "ME", "name": "Mechanical Engineering", "type": "Bachelor"},
+	{"abbreviation": "UNKNOWN", "name": "Psychology", "type": "Bachelor"},
+	{"abbreviation": "TCS", "name": "Technical Computer Science", "type": "Bachelor"},
+	{"abbreviation": "TG", "name": "Technische Geneeskunde", "type": "Bachelor"},
+	{"abbreviation": "TN", "name": "Technische Natuurkunde", "type": "Bachelor"},
 ]
