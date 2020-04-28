@@ -10,7 +10,7 @@ The data is represented in the following way:
     "type": the type of the study. This value is either "Bachelor" or "Master".
 }
 ```
-These values may be changed in the future.
+These values may be changed in the future. Values that we intend to include, include, but are not limited to: duration, abbreviation with type (B-TCS and M-TCS), language, CROHO code, fulltime/parttime.
 
 ## The project
 This repo only contains the data itself, at least for the time being. We'd also like to develop at least two other applications to go along with this repo; a scraper to scrape the website of the University of Twente and make changes to the data if necessary, and an API that can be deployed on a server so users do not have to clone this repo. These repositories can be found here:
