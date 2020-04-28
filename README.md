@@ -16,4 +16,5 @@ These values may be changed in the future. Values that we intend to include, inc
 This repo only contains the data itself, at least for the time being. We'd also like to develop at least two other applications to go along with this repo; a scraper to scrape the website of the University of Twente and make changes to the data if necessary, and an API that can be deployed on a server so users do not have to clone this repo. These repositories can be found here:
 - [API](https://github.com/Luctia/ut-studies-api)
 - [Scraper](https://github.com/Luctia/ut-studies-scraper)
+
 We use [semantic versioning](https://semver.org/).
