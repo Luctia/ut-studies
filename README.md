@@ -5,7 +5,8 @@ The purpose of this repo is to provide a list of studies given at the University
 The data is represented in the following way:
 ```
 {
-    "abbreviation": the abbreviation of the study. If the abbreviation is unknown or does not exist, this value is "UNKNOWN".
+    "abbreviation": the abbreviation of the study. If the abbreviation is unknown or does not exist, this value is empty, or "".
+    "tabb": the abbreviation of the study with the first letter of the type prepended.
     "name": the full name of the study.
     "type": the type of the study. This value is either "Bachelor" or "Master".
 }
